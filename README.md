@@ -9,3 +9,4 @@ Generally, the installation will involve opening the `whatever.asm` file to touc
 ### List of routines
 
 * [BW2 Repel System](./repelprompt.md)
+* [Player Turns to Face Trainers](./trainerface.md)
