@@ -10,3 +10,4 @@ Generally, the installation will involve opening the `whatever.asm` file to touc
 
 * [BW2 Repel System](./repelprompt.md)
 * [Player Turns to Face Trainers](./trainerface.md)
+* [Stats on the Pokédex Screen](./pokedex-stats.md)
