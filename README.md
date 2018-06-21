@@ -10,7 +10,7 @@ A hex editor is entirely uneccesary - rather than outputting a binary file that 
 
 ### List of routines
 
-* [BW2 Repel System](./repelprompt.md)
-* [Player Turns to Face Trainers](./trainerface.md)
+* [BW2 Repel System](./repel-prompt.md)
+* [Player Turns to Face Trainers](./trainer-face.md)
 * [Stats on the Pokédex Screen](./pokedex-stats.md)
 * [Reusable TMs](./reusable-tms.md)
