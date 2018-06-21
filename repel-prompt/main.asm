@@ -14,8 +14,8 @@ outfile equ "test.gba"
 
 // -----------------------------------------------------------------------------
 
-.include "pokescript.s"
-.loadtable "character-encoding.tbl"
+.include "includes/pokescript.s"
+.loadtable "includes/character-encoding.tbl"
 
 .org free_space
 

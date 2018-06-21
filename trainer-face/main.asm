@@ -75,7 +75,7 @@ trainerface:
 
 // -----------------------------------------------------------------------------
 
-.include "pokescript.s"
+.include "includes/pokescript.s"
 
 trainerface_script:
 
