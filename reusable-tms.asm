@@ -14,9 +14,6 @@ outfile equ "test.gba"
 
 // -----------------------------------------------------------------------------
 
-.include "pokescript.s"
-.loadtable "character-encoding.tbl"
-
 .org 0x08124F78
     nop
     nop
