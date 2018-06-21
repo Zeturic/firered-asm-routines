@@ -4,4 +4,4 @@ Originally by [DoesntKnowHowToPlay](https://www.pokecommunity.com/member.php?u=3
 
 ### Installation
 
-Nothing unusual here. Aside from the filenames of your ROM and where you want the code to be inserted, there's nothing to configure. And then just run `/path/to/armips pokedex-stats.asm`.
+Nothing unusual here. Aside from the filenames of your ROM and where you want the code to be inserted, there's nothing to configure. And then just run `/path/to/armips pokedex-stats/main.asm`.

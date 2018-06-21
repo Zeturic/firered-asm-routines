@@ -4,4 +4,4 @@ BW2 introduced a feature where, after a repel runs out, if you still have more R
 
 ### Installation
 
-Nothing unusual here. Aside from the filenames of your ROM and where you want the code to be inserted, there's nothing to configure. And then just run `/path/to/armips repel-prompt.asm`.
+Nothing unusual here. Aside from the filenames of your ROM and where you want the code to be inserted, there's nothing to configure. And then just run `/path/to/armips repel-prompt/main.asm`.
