@@ -2,7 +2,7 @@
 infile equ "firered.gba"
 outfile equ "test.gba"
 
-.definelabel free_space, 0x08800800
+.definelabel free_space, 0x08800000
 
 // -----------------------------------------------------------------------------
 
