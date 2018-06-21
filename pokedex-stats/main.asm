@@ -1,5 +1,3 @@
-// pokedex-stats.asm
-
 // change these constants as needed
 infile equ "firered.gba"
 outfile equ "test.gba"
