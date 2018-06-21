@@ -13,3 +13,4 @@ A hex editor is entirely uneccesary - rather than outputting a binary file that 
 * [BW2 Repel System](./repelprompt.md)
 * [Player Turns to Face Trainers](./trainerface.md)
 * [Stats on the Pokédex Screen](./pokedex-stats.md)
+* [Reusable TMs](./reusable-tms.md)
