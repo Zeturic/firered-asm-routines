@@ -4,4 +4,4 @@ In BW and later games, TMs can be reused infinitely. [FBI](https://www.pokecommu
 
 ### Installation
 
-Nothing unusual here. Aside from the filenames of your ROM and where you want the code to be inserted, there's nothing to configure. And then just run `/path/to/armips repelprompt.asm`.
+Nothing unusual here. Aside from the filenames of your ROM and where you want the code to be inserted, there's nothing to configure. And then just run `/path/to/armips reusable-tms.asm`.
