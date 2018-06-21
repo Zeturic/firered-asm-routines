@@ -4,7 +4,9 @@ This repo collects a number of miscellaneous asm hacks that have been created fo
 
 Every routine has an accompanying `.md` file that will give you more information on what it does, who originally made it, and specialized installation instructions (if applicable).
 
-Generally, the installation will involve opening the `whatever.asm` file to touch up some definitions - for example, the filename of the ROM that it'll be applied to, or the offset to put the code. Then you will run `armips whatever.asm`. The input ROM will not be modified; instead, there will be a modified copy (`test.gba` by default, though that's customizable).
+Generally, the installation will involve opening the `whatever.asm` file to touch up some definitions - for example, the offset to put the code at - then you will run `/path/to/armips whatever.asm`. Then you're done.
+
+A hex editor is entirely uneccesary - rather than outputting a binary file that must be manually inserted into your ROM, these routines will make a modified copy of your ROM with the routine applied. Each of the routines assume that your source ROM will be `firered.gba` and your target ROM will be `test.gba`, though both filenames can be changed when you open `whatever.asm`.
 
 ### List of routines
 
