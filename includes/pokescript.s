@@ -264,9 +264,8 @@
     .halfword p65
 .endmacro
 
-.macro s_waitfanfare, p66
+.macro s_waitfanfare
     .byte 0x32
-    .halfword p66
 .endmacro
 
 .macro s_playsong, p67, p68
