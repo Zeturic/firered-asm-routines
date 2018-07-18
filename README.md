@@ -15,3 +15,4 @@ A hex editor is entirely uneccesary - rather than outputting a binary file that 
 * [Stats on the Pokédex Screen](./pokedex-stats/README.md)
 * [Reusable TMs](./reusable-tms/README.md)
 * [Unhidden Power](./unhidden-power/README.md)
+* [Gender-specific Evolutionary Stones](./dawn-stone/README.md)
