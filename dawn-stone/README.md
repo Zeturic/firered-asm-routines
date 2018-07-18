@@ -2,6 +2,8 @@
 
 This adds evolution methods where an evolutionary stone will only trigger when the Pokemon is a particular gender, like the Dawn Stone for Kirlia -> Gallade and Snorunt -> Froslass.
 
+![Gender-specific Evolutionary Stones Example Image](example.png)
+
 ### Installation
 
 There's the standard configuration for filenames and where to insert the code, but there are some additional options.
