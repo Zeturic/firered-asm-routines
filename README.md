@@ -14,3 +14,4 @@ A hex editor is entirely uneccesary - rather than outputting a binary file that 
 * [Player Turns to Face Trainers](./trainer-face/README.md)
 * [Stats on the Pokédex Screen](./pokedex-stats/README.md)
 * [Reusable TMs](./reusable-tms/README.md)
+* [Trainers with EVs](./ev-trainers/README.md)
